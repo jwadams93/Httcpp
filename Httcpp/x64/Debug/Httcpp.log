@@ -1,0 +1,6 @@
+﻿  Httcpp.cpp
+  Source.cpp
+C:\Users\jwada\Desktop\Programming\Httcpp\Source.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\jwada\Desktop\Programming\Httcpp\Source.cpp(54,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Httcpp.vcxproj -> C:\Users\jwada\Desktop\Programming\Httcpp\x64\Debug\Httcpp.exe
